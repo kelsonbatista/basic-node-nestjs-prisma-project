@@ -1,5 +1,8 @@
 # env
 .env
+/prisma
+./prisma
+prisma
 
 # compiled output
 /dist
