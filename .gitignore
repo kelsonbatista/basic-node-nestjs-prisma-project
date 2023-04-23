@@ -1,12 +1,10 @@
 # env
 .env
-/prisma
-./prisma
-prisma
 
 # compiled output
 /dist
 /node_modules
+/prisma
 
 # Logs
 logs
